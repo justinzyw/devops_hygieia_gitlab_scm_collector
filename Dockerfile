@@ -1,4 +1,4 @@
-FROM pravsingh/hygieia-gitlab-feature-collector
+FROM pravsingh/hygieia-gitlab-scm-collector
 
 ENV MONGO_PORT tcp://devops-hygieiadb:27017
 
